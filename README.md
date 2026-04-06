@@ -15,7 +15,6 @@ I'm a technology student focused on software development and interface design. R
 | :--- | :--- |
 | **Languages** | Java, JavaScript, HTML5, CSS3 |
 | **Version Control** | Git, GitHub |
-| **Design/UX** | Usability Analysis, UI Design |
 | **Systems** | Windows, Linux |
 
 ### 📫 Let's Connect
