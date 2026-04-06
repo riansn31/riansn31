@@ -17,9 +17,7 @@ I'm a Computer Science student focused on software development and interface des
 | **Version Control** | Git, GitHub |
 | **Systems** | Windows, Linux |
 
-###
 
-[![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=riansn31&show_icons=true&theme=radical&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Let's Connect
 
