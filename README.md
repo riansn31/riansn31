@@ -13,11 +13,12 @@ I'm a Computer Science student focused on software development and interface des
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, JavaScript, HTML5, CSS3 |
+| **Languages** | Go, Java, JavaScript, HTML5, CSS3 |
 | **Version Control** | Git, GitHub |
 | **Systems** | Windows, Linux |
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" />
